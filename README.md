@@ -19,7 +19,6 @@ cd google-maps-scraper
 Initialize a new Node.js project and install the required packages:
 
 ```bash
-npm init -y
 npm install puppeteer xlsx
 ```
 
