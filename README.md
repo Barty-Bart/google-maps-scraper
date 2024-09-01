@@ -10,7 +10,7 @@ This project is a Node.js script that scrapes data from Google Maps search resul
 
 **Clone the Repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Barty-Bart/google-maps-scraper.git
 cd google-maps-scraper
 ```
 
